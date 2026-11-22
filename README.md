@@ -22,11 +22,11 @@ Built with Next.js and TypeScript on the front end and FastAPI (Python) on the b
 
 ## Writing
 
-I write about software engineering on my blog, [Visual Studio Learn](https://visualstudiolearn.blogspot.com) — cloud, AI agents, SQL Server, and Python/FastAPI in production.
+I write about software engineering on my blog, [Visual Studio Learn](https://www.visualstudiolearn.com) — cloud, AI agents, SQL Server, and Python/FastAPI in production.
 
 ## Get in touch
 
 - LinkedIn: [linkedin.com/in/sajjadashraf37](https://www.linkedin.com/in/sajjadashraf37)
-- Blog: [visualstudiolearn.blogspot.com](https://visualstudiolearn.blogspot.com)
+- Blog: [www.visualstudiolearn.com](https://www.visualstudiolearn.com)
 
 *Most of my current work lives in private repositories (employer and personal projects). This profile highlights the work I can show publicly — starting with the live app above.*
